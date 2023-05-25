@@ -1,2 +1,2 @@
 Ruben Dario Hoyos Lara
-prueba de como crear un repositorio y clonarlo desde github a mi computadora, intento 5 .
+prueba de como crear un repositorio y clonarlo desde github a mi computadora, prueba numero 8.
